@@ -1,0 +1,17 @@
+{
+  "name": "json-parse-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/main.js",
+  "scripts": {
+    "start": "webpack --watch"
+  },
+  "author": "github.com/adrianmroz",
+  "license": "MIT",
+  "devDependencies": {
+    "reflect-metadata": "^0.1.10",
+    "ts-loader": "^2.2.0",
+    "typescript": "^2.4.1",
+    "webpack": "^3.0.0"
+  }
+}
